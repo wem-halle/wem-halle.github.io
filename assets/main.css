@@ -127,3 +127,12 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
     table.footer{font-size:0.33em;}
 }
 
+.logos {
+    display: flex;
+    justify-content: center; /* This centers the logo horizontally */
+    margin-top: 30px; /* Adjust the value to increase space as needed */
+}
+
+ul {
+    margin-bottom: 20px; /* Adds space below the contact details list */
+}
